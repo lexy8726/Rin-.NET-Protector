@@ -1,4 +1,5 @@
-Rin .NET Protector (KoiVM Modded)
+
+Rin | Open Source .NET Protector (KoiVM Modded)
  
 + Virtualization
 + Renamer
